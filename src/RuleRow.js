@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import './RuleRow.css'
 
 class RuleRow extends Component {
@@ -12,4 +12,4 @@ class RuleRow extends Component {
   }
 }
 
-export default RuleRow;
+export default RuleRow

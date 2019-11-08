@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import Die from './Die';
-import './Dice.css';
+import React, { Component } from 'react'
+import Die from './Die'
+import './Dice.css'
 
 class Dice extends Component {
   render() {
@@ -16,4 +16,4 @@ class Dice extends Component {
   }
 }
 
-export default Dice;
+export default Dice
